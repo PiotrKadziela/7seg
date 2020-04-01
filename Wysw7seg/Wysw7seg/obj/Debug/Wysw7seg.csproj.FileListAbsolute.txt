@@ -1,0 +1,7 @@
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\bin\Debug\Wysw7seg.dll
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\bin\Debug\Wysw7seg.pdb
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\obj\Debug\Wysw7seg.csprojAssemblyReference.cache
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\obj\Debug\Wysw7seg._7seg.resources
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\obj\Debug\Wysw7seg.csproj.GenerateResource.cache
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\obj\Debug\Wysw7seg.dll
+C:\Users\aqaz1\source\repos\Wysw7seg\Wysw7seg\obj\Debug\Wysw7seg.pdb
