@@ -666,6 +666,9 @@
             this.Controls.Add(this.btnBracketClose);
             this.Controls.Add(this.btnBracketOpen);
             this.Controls.Add(this._7seg5);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1296, 759);
+            this.MinimumSize = new System.Drawing.Size(1296, 759);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
